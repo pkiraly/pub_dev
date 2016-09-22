@@ -5,9 +5,9 @@ I used different official and unofficial docker-images as template and built my 
 
 * Java JRE-8 (https://github.com/docker-library/openjdk/tree/89851f0abc3a83cfad5248102f379d6a0bd3951a/8-jre)
 
-* ongoDB (https://github.com/docker-library/mongo/tree/4bb17b336a05ad85c9bf83b103d21529e27e62f9/3.2)
+* MongoDB (https://github.com/docker-library/mongo/tree/4bb17b336a05ad85c9bf83b103d21529e27e62f9/3.2)
 
-* elasticsearch (https://github.com/docker-library/elasticsearch/tree/master/1.7)
+* Elasticsearch (https://github.com/docker-library/elasticsearch/tree/master/1.7)
 
 * LibreCat (https://github.com/LibreCat/LibreCat)
 
@@ -15,7 +15,7 @@ I used different official and unofficial docker-images as template and built my 
 
 **_2016.09.05_**
 
- Another feature: Now there is a **OpneSSH-Server** inside the Image, which will help in establishing a
+ Another feature: Now there is a **OpenSSH-Server** inside the Image, which will help in establishing a
 developement procedure. If you want to use this in production, just change the password for the _librecat_.
 
 **_2016.08.24_**
